@@ -1,0 +1,7 @@
+/data
+/ckpts
+/*results
+/*logs
+*.pyo
+*.pyc
+.vscode

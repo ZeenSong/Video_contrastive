@@ -1,0 +1,1 @@
+Official Code for Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective
